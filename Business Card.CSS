@@ -1,0 +1,79 @@
+*{
+    background-color: black;
+    text-align: center;
+    margin: 0px;
+}
+h1{
+    color: white;
+}
+h3{
+    color: chocolate;
+}
+h5{
+    color: white;
+}
+h2{
+    color: white;
+    text-align: left;
+    margin-top: 20px;
+    font-style: bold;
+}
+p{
+    color: white;
+    font-family: calibri;
+    text-align: left;
+    font-size: 12px;
+    width: 247px;
+    height: 90px;
+
+}
+#footer p{
+    text-align: center;
+    background-color: rgba(22, 22, 25, 1);
+    height: 50px;
+    border-radius: 0 0 5px 5px;
+    font-size: 12px;
+    padding-top: 30px;
+    font-family:  'Times New Roman';
+    width: 331px;
+}
+#Email{
+    color: black;
+    background-color: rgba(255, 255, 255, 1);
+    width: 115px;
+    height: 34px;
+    border: none;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-family: 'inter';
+
+}
+#Linkedin{
+    margin-top: -7px;
+    color: white;
+    background-color: rgba(80, 147, 226, 1);
+    width: 115;
+    height: 34px;
+    border: none;
+    border-radius: 5px;
+}
+#main{
+    border: 1px;
+    width: 317;
+    height: 317;
+    margin: 7 auto;
+}
+#page{
+    width: 550px;
+    height: 868px;
+    background-color: rgba(35, 37, 44, 1);
+    margin: auto;
+}
+#me{
+    width: 330px;
+    height: 796px;
+    margin: auto;
+}
+#Content{
+    padding: 20px;
+}
