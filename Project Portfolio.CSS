@@ -47,3 +47,38 @@ height: 25px;
     display: flex;
     gap: 20px;
 }
+#img3{
+    display: flex;
+    gap: 20px;
+    width:100px;
+    height: 60px;
+padding-right: 6%;
+padding-left: 10px;
+}
+#img3 img{
+    width:100px;
+    height: 60px;
+}
+#img4{
+    display: flex;
+    gap: 30px;
+}
+#img4 img{
+    width: 55px;
+    height:60px;
+}
+#aa{
+    display: flex;
+    margin-top: 70px;
+
+}
+#aa h3{
+    color: rgb(68,89,100,1);
+    font-size: 15px;
+}
+#aa h1 span{
+    color: rgb(68,89,100,1);
+}
+.section5 h3 span{
+    color: rgb(68,89,100,1);
+}
