@@ -1,10 +1,18 @@
    #intro{
       display: flex;
       flex-direction: row;
-      justify-content: flex-end;
+      justify-content: space-evenly;
+      background-color: black;
+
+   }
+   #intro h3{
+      color: white;
+   }
+   #intro img{
+      margin-right: 120px;
    }
    #section1 img{
-      width: 1330px;
+      width: 1000px;
       height: 264px;
       margin-left: 0px;
    }
@@ -24,10 +32,14 @@
    color: gray;
    font-size: 14px;
   }
+  #aa{
+   color: blue;
+  }
    #section3{
       display: flex;
       flex-direction: row;
       margin-left: 100px;
+      margin-top: 50px;
    }
    #section3 h1{
       font-size: 32px;
@@ -35,13 +47,30 @@
    .part3{
       display:flex;
       flex-direction: column;
-      margin-left: 30px;
+      margin-left: 50px;
+   }
+   .part3 h1{
+      width: 400px;
+      font-size: 27px;
+   }
+   .part3 p{
+      width: 400px;
+      color: gray;
+      font-size: 18px;
+   }
+   #ReadMore{
+         width: 110px;
+         background-color: rgba(80, 147, 226, 1);
+         color: white;
+         border-radius: 5px;
+         border: none;
+         height: 30px;
    }
    #section4{
       display:flex;
       gap: 30px;
       width: 360px;
-      margin-top: 40px;
+      margin-top: 60px;
       margin-left: 100px;
    }
    #section4 h1{
@@ -74,3 +103,44 @@
       color: gray;
    
    }
+   #section5 img{
+      width: 300px;
+   }
+   #section6{
+      margin-left: 100px;
+      display: flex;
+      flex-direction: column;
+   }
+   #section6 #part6a{
+      display: flex;
+      flex-direction: row;
+      border-radius: 50px;
+      gap: 20px;
+   }
+   #section6 #part6b{
+      display: flex;
+      border-radius: 30px;
+      margin-top: 30px;
+      gap: 20px;
+   }
+   #section6 h1{
+      font-size: 24px;
+      font-style: bold;
+   }
+   #part6a{
+      border: none;
+      border-radius: 30px;
+   }
+   #section7{
+      display: flex;
+      justify-content: space-evenly;
+      margin-top: 30px;
+      background-color: gray;
+   }
+   .part7a h4{
+      width: 400px;
+   }
+   .part7b h3{
+      
+   }
+  
